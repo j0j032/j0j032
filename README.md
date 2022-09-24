@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0j032&count_private=true&show_icons=true&theme=apprentice)](https://github.com/j0j032/github-readme-stats)
+
 ##### - 🔭 I’m currently working on OpenClassrooms P12 => create a dashboard with react and recharts 
 ##### - 🌱 I’m currently learning reactJS redux
 ##### - 👯 I’m looking to collaborate on creative developpement projects
