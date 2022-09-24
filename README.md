@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Jordan, Front end developer <img width="32" alt="Languages Icons" src="https://user-images.githubusercontent.com/100964858/192102949-9dd67e66-8702-4c6e-b015-f795090c74ee.svg">
+# 👋 Hello! I'm Jordan, Front end developer <img align="right" width="32" alt="Languages Icons" src="https://user-images.githubusercontent.com/100964858/192102949-9dd67e66-8702-4c6e-b015-f795090c74ee.svg">
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hello__j0j0.svg?style=social&label=Follow%20%40hello__j0j0)](https://twitter.com/hello__j0j0)  <img src= "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"> [![wakatime](https://wakatime.com/badge/user/91dfa46b-6ffd-4bd2-ae47-99ed58afd6aa.svg)](https://wakatime.com/@91dfa46b-6ffd-4bd2-ae47-99ed58afd6aa) 
 
 > 💪 *"You get what you repeat !"*
