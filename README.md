@@ -26,7 +26,7 @@
 #
 
 ### 🤙 About me
-##### - 👂 I want to hear about freelancing or ambitious start up projects
+##### - 👂 I want to hear about freelancing or start up projects
 ##### - 🎨 My extra skills: UI-UX design, SVG drawing/illustrations
 ##### - 🤙 My soft skills: Communication, Adaptability, Creativity, Time management, Critical thinking, Problem-solving, Conflict management
 ##### - 🤯 How I clear my mind: Swimming, Running and Freediving
