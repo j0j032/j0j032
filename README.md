@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Jordan, Fullstack JS/TS developer
 
 <div align="left">
- <img src="https://img.shields.io/badge/-React-262627?logo=React&logoColor={LOGO-COLOR}&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Node.js-FFFEFC?logo=Node.js&logoColor=339933&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-express-262627?logo=Express&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-mongoDB-47A248?logo=MongoDB&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/>
+ <img src="https://img.shields.io/badge/-React-262627?logo=React&logoColor={LOGO-COLOR}&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Next-262627?logo=Next.js&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Node.js-FFFEFC?logo=Node.js&logoColor=339933&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-express-262627?logo=Express&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-mongoDB-47A248?logo=MongoDB&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-262627?logo=IntelliJ%20IDEA&logoColor={262627}style=For-the-badge" alt="badge sample"/>
 </div> 
 
 
@@ -13,8 +13,8 @@
 
 #
 ### 🎢 My everyday playground 
+<img src="https://img.shields.io/badge/-React%20Query-111827?logo=React%20Query&logoColor={LOGO-COLOR}&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-React%20Hook%20Form-111827?logo=React%20Hook%20Form&logoColor={LOGO-COLOR}style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-React%20Table-111827?logo=React%20Table&logoColor=256DE3&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-React%20Router-262627?logo=React%20Router&logoColor={LOGO-COLOR}style=For-the-badge" alt="badge sample"/>
 
-<img src="https://img.shields.io/badge/-React%20Query-111827?logo=React%20Query&logoColor={LOGO-COLOR}&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-React%20Table-111827?logo=React%20Table&logoColor=256DE3&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-React%20Hook%20Form-111827?logo=React%20Hook%20Form&logoColor={LOGO-COLOR}style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-React%20Router-262627?logo=React%20Router&logoColor={LOGO-COLOR}style=For-the-badge" alt="badge sample"/>
 ###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0j032&exclude_repo=OC-Dev-JS-P2_Booki,OC-Dev-JS-P3_Ohmyfood,OC-Dev-JS-P4_GameOn,FS-ColorGenerator,LDDW-BrickBreaker,FS-QuizApp,PyramidAnatomy_app,OC-Dev-JS-P9_Billed,OC-Dev-JS-P6_Fisheye,OC-Dev-JS-P7_Les-petits-plats,LDDW-AlgoSource,FS-Country-React-App,FS-Cooking-React-App,FS-Redux-Blog,github-readme-stats,LDDW-redux-blog,LDDW-react-Slider,LDDW-react-animations,FS-Cours-Redux-ToolkitxMirage,FS-React-Redux-Firebase-1stProject,marvel-quiz-react-firebase,quiz-react-app&hide=css,scss,html&&layout=compact&bg_color=00000000)
