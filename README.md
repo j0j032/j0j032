@@ -1,8 +1,12 @@
-# 👋 Hello! I'm Jordan, I love buildin application [![wakatime](https://wakatime.com/badge/user/91dfa46b-6ffd-4bd2-ae47-99ed58afd6aa.svg)](https://wakatime.com/@91dfa46b-6ffd-4bd2-ae47-99ed58afd6aa)
+# 👋 Hello! I'm Jordan, Fullstack JS/TS developer
+
 <div align="left">
  <img src="https://img.shields.io/badge/-React-262627?logo=React&logoColor={LOGO-COLOR}&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Node.js-FFFEFC?logo=Node.js&logoColor=339933&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-express-262627?logo=Express&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-mongoDB-47A248?logo=MongoDB&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/>
-</div>
+</div> 
 
+
+###
+> 💪 "You get what you repeat !"
 ###
 
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0j032&show_icons=true&bg_color=00000000)
@@ -36,10 +40,4 @@
 [![Jordan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=j0j032&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-> 💪 *"You get what you repeat !"
-
-
-> 🐢 *"Mastery requires patience."*
-
-> 🐜 *"Forget about goals and focus on systems instead."*
+ [![wakatime](https://wakatime.com/badge/user/91dfa46b-6ffd-4bd2-ae47-99ed58afd6aa.svg)](https://wakatime.com/@91dfa46b-6ffd-4bd2-ae47-99ed58afd6aa)
