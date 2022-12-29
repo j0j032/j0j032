@@ -13,7 +13,13 @@
 
 #
 
+<details>
+<summary>
+
 ### 🤙 About me
+ 
+  </summary>
+ 
 ##### - 👂 I want to hear about freelancing or start up projects
 ##### - 🎨 My extra skills: UI-UX design, SVG drawing/illustrations
 ##### - 🤙 My soft skills: Communication, Adaptability, Creativity, Time management, Critical thinking, Problem-solving
@@ -21,6 +27,8 @@
 ##### - 👨‍⚕️ Something original about me ? I'am an osteopath but I felt better at fix human problems through computers 🫢
 ##### - 💬 Feel free to contact me for your early stage projects.
 ##### - 📫 The best way to reach me: hello@j0j0.me 
+ 
+ </details>
 
 #
 <details>
