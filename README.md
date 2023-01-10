@@ -20,7 +20,7 @@
  
   </summary>
  
-##### Hello! I'm Jordan, Frontend React passionate developer, I also have backend skills (node, express, mongoDB...) and I'll be happy to join a team and contribute on challenging projects. I'm very sensible to UX and design and got extra skills on figma and illustrator... I just spend a year learning everything I can about React and feel more than ready to be a team player in your company!
+##### Hello! I'm Jordan, Frontend React passionate developer, I also have backend skills (node, express, mongoDB...) and I'll be happy to join a team and contribute on challenging projects. I'm very sensible to UX and design and got extra skills on figma and illustrator... I've just spent a year learning everything I can about React and feel more than ready to be a team player in your company!
  
 ##### - 🤙 My soft skills: Communication, Adaptability, Creativity, Time management, Critical thinking, Problem-solving
 ##### - 🤯 How I clear my mind: Running, Swimming, snowboarding, surfing, skateboarding
